@@ -1,7 +1,7 @@
 ### Project 1
 
 ## Text Mining techniques for insight extraction from consumer complaints
-# Issue classification and Topic detection of U.S consumer complaints for Mortgage product
+### Issue classification and Topic detection of U.S consumer complaints for Mortgage product
 
 The objective of this work is to apply Text Mining techniques to identify and classify the issue source of the complaint so that trends and patterns can be flagged and promptly reported to management.
 

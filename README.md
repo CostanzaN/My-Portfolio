@@ -37,3 +37,15 @@ R, Tableau, Excel
 -	Data manipulation
 -	Data Analytics: Hypothesis testing
 -	Data Visualization : GeoMap in R, animated graphs
+
+### Project 4
+
+The aim of the project was to practice relational database design and implementation, create triggers, store procedures, Joins and answer questions by utilizing different functions 
+### Programming language & software used
+SQL, Excel
+### Data Skills applied
+
+-	Relational Database design and implementation
+- Data analysis with SQL: Joins, Stores procedures, triggers, view
+
+

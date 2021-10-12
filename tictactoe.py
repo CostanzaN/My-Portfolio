@@ -16,7 +16,7 @@ def print_board():
     print(row3)
     print()
 
-#now process moves form player 2
+#now process moves from player 2
 
 def player_move(icon):
     if icon =="X":
@@ -31,6 +31,7 @@ def player_move(icon):
         print()
         print("That space is taken!")
 
+# define winning combinations
 
 def is_victory(icon):
     if(board[0]==icon and board[1]==icon and board[2]==icon) or\
@@ -44,7 +45,7 @@ def is_victory(icon):
       return True
     else:
         return False
-
+# define when game draw
 
 def is_draw():
     if " " not in board:

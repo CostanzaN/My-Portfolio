@@ -48,14 +48,14 @@ SQL, Excel
 -	Relational Database design and implementation
 - Data analysis with SQL: Joins, Stores procedures, triggers, view
 
-### Amazon Web Scraping
+## Amazon Web Scraping
 
-## Programming language & software used
+### Programming language & software used
 Python, Jupiter notebook
 
 Using Beautifulsoup python package for scraping Fitbit price from Amazon. Add date stamp and create a csv file to analyse price fluctuation
 
-### Booking.com scraping
+## Booking.com scraping
 
 Python, Jupiter notebook
 

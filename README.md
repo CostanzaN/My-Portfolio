@@ -41,11 +41,27 @@ R, Tableau, Excel
 ### Project 4
 
 The aim of the project was to practice relational database design and implementation, create triggers, store procedures, Joins and answer questions by utilizing different functions 
-### Programming language & software used
+## Programming language & software used
 SQL, Excel
-### Data Skills applied
+## Data Skills applied
 
 -	Relational Database design and implementation
 - Data analysis with SQL: Joins, Stores procedures, triggers, view
+
+### Amazon Web Scraping
+
+## Programming language & software used
+Python, Jupiter notebook
+
+Using Beautifulsoup python package for scraping Fitbit price from Amazon. Add date stamp and create a csv file to analyse price fluctuation
+
+### Booking.com scraping
+
+Python, Jupiter notebook
+
+Retrieve list of hotels in Istanbul, sorted by default. 
+Output consists of title, number od reviews, qualitative review, score and link, rank and price.
+
+
 
 
